@@ -1,0 +1,3 @@
+### Get all customers
+GET http://localhost:3000/api/customers
+Accept: application/json
